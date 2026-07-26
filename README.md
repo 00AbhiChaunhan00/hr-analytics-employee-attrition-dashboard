@@ -49,7 +49,7 @@ The project transforms raw HR data into meaningful business insights, helping HR
 
 # 📂 Dataset Information
 
-**Total Employees:** **1,470**
+**Total Employees:** **1,470(approx)**
 
 ### Dataset Features
 
