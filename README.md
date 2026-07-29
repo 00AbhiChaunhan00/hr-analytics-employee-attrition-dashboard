@@ -181,6 +181,6 @@ The project transforms raw HR data into meaningful business insights, helping HR
 
 ### ⭐ If you found this project helpful, don't forget to Star ⭐ the repository!
 
-**Thanks for visiting! 😊**
+**Thanks for visiting! **
 
 </div>
