@@ -149,30 +149,6 @@ The project transforms raw HR data into meaningful business insights, helping HR
 
 ---
 
----
-
-# 📁 Project Structure
-
-```
-HR-Analytics-Employee-Attrition/
-│
-├── Dataset/
-│   └── HR_Employee_Attrition.xlsx
-│
-├── SQL/
-│   └── HR_Analytics_SQL.sql
-│
-├── Dashboard/
-│   └── HR_Dashboard.xlsx
-│
-├── Images/
-│   └── Dashboard.png
-│
-└── README.md
-```
-
----
-
 # ⭐ Project Highlights
 
 📊 Interactive Dashboard
